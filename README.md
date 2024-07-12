@@ -6,7 +6,7 @@ Convert input.ass into output.ass using Python/Perl/Shell code. ASS, or Advanced
 ## Instructions
 1. Fork this repository to your private account.
 2. Product output.ass using a software code. 
-3. Submit your work by inviting us as a collaborator to your private repository and by sending an email to kansal@platy.studio with your GitHub link and software code (for example assignment.py) attached. Please Ensure your code is well-documented.
+3. Submit your work by inviting us as a collaborator to your private repository and by sending an email to kansal@platy.studio with your GitHub link and software code (for example assignment.py) attached. Please ensure your code is well-documented.
 
 ## Evaluation Criteria
 - Correctness and functionality
